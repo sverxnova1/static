@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";import{t as n}from"./container-DNe0hdyF.js";var r=t(),i=e(function(){return(0,r.jsx)(n,{children:(0,r.jsx)(`div`,{className:`border min-h-screen text-white`,children:`проект C`})})});export{i as default};

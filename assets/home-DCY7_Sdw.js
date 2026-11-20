@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";import"./container-DNe0hdyF.js";var n=t(),r=e(function(){return(0,n.jsx)(`div`,{className:`bg-black h-full min-h-screen flex flex-col justify-center items-center border-white border`,children:(0,n.jsx)(`img`,{src:`knight.jpg`})})});export{r as default};
